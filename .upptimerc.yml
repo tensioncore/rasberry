@@ -16,11 +16,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Rasberry Uptime
   introTitle: "Rasberry Uptime generated using GitHub"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: The page uses GitHub actions to keep track of overall uptime at Rasberry.ca and Tensioncore.com
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Rasberry Uptime
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
