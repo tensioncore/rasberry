@@ -4,7 +4,7 @@
     "url": "https://rasberry.ca",
     "icon": "https://icons.duckduckgo.com/ip3/rasberry.ca.ico",
     "slug": "rasberry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 902,
     "timeYear": 702,
     "dailyMinutesDown": {
+      "2023-10-14": 0,
       "2023-09-26": 35
     }
   },
@@ -25,14 +26,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tensioncore.com.ico",
     "slug": "tensioncore",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "96.50%",
     "uptimeWeek": "95.40%",
     "uptimeMonth": "94.66%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.56%",
     "time": 641,
     "timeDay": 611,
-    "timeWeek": 519,
+    "timeWeek": 522,
     "timeMonth": 536,
     "timeYear": 641,
     "dailyMinutesDown": {
