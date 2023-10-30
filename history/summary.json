@@ -27,17 +27,17 @@
     "slug": "tensioncore",
     "status": "up",
     "uptime": "98.08%",
-    "uptimeDay": "90.21%",
-    "uptimeWeek": "90.25%",
-    "uptimeMonth": "94.82%",
+    "uptimeDay": "90.90%",
+    "uptimeWeek": "90.35%",
+    "uptimeMonth": "94.80%",
     "uptimeYear": "98.08%",
     "time": 649,
     "timeDay": 489,
     "timeWeek": 606,
-    "timeMonth": 615,
+    "timeMonth": 616,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2023-10-29": 141,
+      "2023-10-29": 131,
       "2023-10-28": 172,
       "2023-10-27": 138,
       "2023-10-26": 179,
@@ -56,7 +56,7 @@
       "2023-10-13": 53,
       "2023-10-12": 89,
       "2023-10-10": 16,
-      "2023-10-09": 81
+      "2023-10-09": 101
     }
   }
 ]
