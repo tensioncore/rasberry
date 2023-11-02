@@ -25,12 +25,12 @@
     "url": "https://tensioncore.com",
     "icon": "https://icons.duckduckgo.com/ip3/tensioncore.com.ico",
     "slug": "tensioncore",
-    "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "92.37%",
+    "status": "down",
+    "uptime": "98.15%",
+    "uptimeDay": "92.36%",
     "uptimeWeek": "88.09%",
-    "uptimeMonth": "94.75%",
-    "uptimeYear": "98.13%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "98.15%",
     "time": 645,
     "timeDay": 579,
     "timeWeek": 573,
@@ -52,7 +52,7 @@
       "2023-10-21": 123,
       "2023-10-20": 105,
       "2023-10-19": 270,
-      "2023-10-18": 63
+      "2023-10-18": 38
     }
   }
 ]
