@@ -1,7 +1,11 @@
 name: delete opened issue
 on:
-  issues:
-    types: [closed]
+  workflow_dispatch:
+    inputs:
+      input:
+        description: "Test"
+        required: false
+        default: "World"
 jobs:
   delete-issue:
     if: github.event.issue.user.login == 'tensioncore'
