@@ -13,7 +13,7 @@ status-website:
   baseUrl: /rasberry
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Rasberry Uptime
-  introTitle: "Rasberry Uptime generated using GitHub"
+  introTitle: "Rasberry Uptime"
   introMessage: The page uses GitHub actions to keep track of overall uptime at Rasberry.ca
   navbar:
     - title: Status
