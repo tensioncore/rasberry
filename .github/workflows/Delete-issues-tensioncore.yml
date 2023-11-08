@@ -8,7 +8,6 @@ on:
         default: "World"
 jobs:
   delete-issue:
-    if: github.event.issue.user.login == 'tensioncore'
     runs-on: ubuntu-latest
     steps:
       - uses: vtcaregorodtcev/delete-issue@main
