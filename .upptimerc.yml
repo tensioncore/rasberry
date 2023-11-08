@@ -23,5 +23,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-- name: Delete-Issue         
-  uses: vtcaregorodtcev/delete-issue@v1.0.1
