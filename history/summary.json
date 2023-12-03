@@ -4,7 +4,7 @@
     "url": "https://rasberry.ca",
     "icon": "https://icons.duckduckgo.com/ip3/rasberry.ca.ico",
     "slug": "rasberry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 614,
     "timeYear": 663,
     "dailyMinutesDown": {
+      "2023-12-03": 0,
       "2023-10-14": 96,
       "2023-09-26": 35
     }
